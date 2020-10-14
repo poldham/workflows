@@ -1,7 +1,7 @@
 ---
 title: "Workflows"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Just us setting up some workflows!
 site: distill::distill_website
 ---
 
